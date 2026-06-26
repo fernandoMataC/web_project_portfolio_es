@@ -211,13 +211,13 @@ a {
 }
 
 .project-card {
-  background-color: #6d6dff;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 12px;
   overflow: hidden;
   flex-direction: column;
+  background-color: var(--bg-card);
 }
 
 .project-image {
